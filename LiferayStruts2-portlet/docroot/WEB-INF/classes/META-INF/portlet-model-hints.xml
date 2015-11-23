@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<model-hints>
+	<model name="com.meera.service.model.Student">
+		<field name="studentId" type="long" />
+		<field name="studentName" type="String" />
+		<field name="studentPlece" type="String" />
+		<field name="studentState" type="String" />
+	</model>
+</model-hints>
